@@ -40,7 +40,7 @@ tour-booking-website/
 ## Live Demo ## 
 https://www.kcvtours.com/
 
-Author,
-T.N.M. Niswar
-Aspiring Software Engineer
+Author:
+T.N.M. Niswar,
+Aspiring Software Engineer | 
 Kandy, Sri Lanka
